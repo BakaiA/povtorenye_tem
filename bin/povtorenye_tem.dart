@@ -1,7 +1,7 @@
 //Пример 1
 void main() {
-  int c = 1;
-  if (c == 1) {
+  int c = 2;
+  if (c == 3) {
     print('большой палец');
   } else if (c == 2) {
     print('указательный палец');
@@ -16,7 +16,7 @@ void main() {
 }
 
 //Пример 2
-import 'dart:math';
+// import 'dart:math';
 
 // void main() {
 //   int min = Random().nextInt(59);
